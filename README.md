@@ -1,5 +1,7 @@
 # top-bad-films
 
+Вступительное задание в компанию XDsoft
+
 ## Build Setup
 
 ```bash
